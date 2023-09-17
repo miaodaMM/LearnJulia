@@ -2,8 +2,6 @@
 
 来自 https://github.com/JuliaAcademy/JuliaTutorials 中文部分。
 
-
-**已完成**  
 - [简短版](./简短版/)
     - [00.上手 Jupyter notebook](./简短版/00.上手Jupyter_notebook.ipynb)
     - [01.了解 Julia](./简短版/01.了解Julia.ipynb)
